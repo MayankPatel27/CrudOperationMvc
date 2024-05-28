@@ -147,6 +147,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Database Script File\script.sql" />
     <Content Include="ExternalScript\jsPersonInfo.js" />
     <Content Include="ExternalScript\PopDesign.css" />
     <Content Include="favicon.ico" />
